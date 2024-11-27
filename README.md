@@ -1,2 +1,9 @@
 # frontend-projects
 This repository contains a collection of my frontend development projects .
+Several projects in the list below are inspired from the website Frontend Mentor [link : https://www.frontendmentor.io/]  .
+
+## Projects
+1. [QR code component](./project1)
+*Description*: A qr code card that contains the code and its description.
+
+
