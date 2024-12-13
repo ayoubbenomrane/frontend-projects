@@ -7,3 +7,5 @@ Several projects in the list below are inspired from the website Frontend Mentor
 *Description*: A qr code card that contains the code and its description.
 
 
+2. [Blog preview card](https://github.com/ayoubbenomrane/Blog-Preview-Card)
+*Description*: A blog preview card of a course.
